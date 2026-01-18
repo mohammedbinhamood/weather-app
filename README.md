@@ -105,8 +105,7 @@ Feel free to fork this project and submit pull requests!
 ISC
 
 ## 👨‍💻 Author
-
-Your Name - [@mohammmedbinhammod](https://instagram.com/mohd_binhamood)
+[@mohammmedbinhammod](https://instagram.com/mohd_binhamood)
 
 ---
 
